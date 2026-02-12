@@ -1,0 +1,7 @@
+{
+  "name": "Refractive Liquid Chrome Button",
+  "description": "A high-fidelity replication of the liquid metal/refractive glass button featuring live webcam-based reflections and dynamic mouse-tracking refraction effects.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
